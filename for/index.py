@@ -1,7 +1,3 @@
-for itens in range(2, 9, 3):
-    print(itens)
-
-
 
 nome = input("Entre com seu nome: \n")
 for letra in nome:
