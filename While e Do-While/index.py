@@ -1,4 +1,4 @@
-palavra = ('sair')
+palavra = input()
 while (palavra != 'sair'):
     palavra = input('Digite sair para encerrar o laço: \n')
 print('Você digitou sair e agora está fora do laço')
